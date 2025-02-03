@@ -7,7 +7,7 @@
 本系统包含商品管理、会员管理、库存管理、销售管理、员工管理等功能，用户购买商品可以选择不同的付款方式，会员购买商品可以获得积分，积分可以兑换积分商品。<br>
 前端使用Vue框架，后端使用SpringBoot框架，数据库使用的是Mysql。<br>
 本系统功能完善，涉及的技术比较广，难度适中，都是市面上主流的技术，非常适合作为设计项目或开发学习。<br>
-视频介绍：<a href="" target="_blank">点击查看B站视频介绍</a>
+视频介绍：<a href="https://www.bilibili.com/video/BV1h8PDeFEfu/?spm_id_from=333.1387.homepage.video_card.click" target="_blank">点击查看B站视频介绍</a>
 
 ## 功能介绍
 
